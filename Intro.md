@@ -8,7 +8,7 @@ Se dice que `Big Data` es el killer application de la programación funcional; t
 
 En este workshop aprenderás a usar las herramientas básicas que el lenguaje provee para el manejo, filtrado y tranformación de información mediante dos ejercicios de creciente complejidad. La ejecución de estos ejercicios te habilitará para empezar a explorar el ecosistema, sin importar la escala.
 
-Si bién solo manejaremos la standard library, las herramientas de mayor porte basadas en el lenguaje reflejan la orientación a la programación funcional mediante librerías de combinadores muy similares a las que usaremos. 
+Si bién solo manejaremos la standard library, las herramientas de proceso a gran escala que están basadas en el lenguaje reflejan la orientación a la programación funcional mediante librerías de combinadores muy similares a las que usaremos. 
 
 Si existe el interés podemos agendar una nueva sesión antes de fin de año para explorar otras tecnologías.
 
