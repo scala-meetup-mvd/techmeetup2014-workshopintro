@@ -1,6 +1,8 @@
 
 # Scala Workshop - Scala Meetup 2014
 
+## Proceso de datos con Scala
+
 La información es la nueva materia prima; las tecnologías con futuro son las que 
 nos permiten explorar y procesar información de forma ágil. 
 
@@ -10,6 +12,5 @@ En este workshop aprenderás a usar las herramientas básicas que el lenguaje pr
 
 Si bién solo manejaremos la standard library, las herramientas de proceso a gran escala que están basadas en el lenguaje reflejan la orientación a la programación funcional mediante librerías de combinadores muy similares a las que usaremos. 
 
-Si existe el interés podemos agendar una nueva sesión antes de fin de año para explorar otras tecnologías.
 
 
